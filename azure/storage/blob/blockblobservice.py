@@ -92,7 +92,8 @@ class BlockBlobService(BaseBlobService):
 
     def __init__(self, account_name=None, account_key=None, sas_token=None, 
                  is_emulated=False, protocol=DEFAULT_PROTOCOL, endpoint_suffix=SERVICE_HOST_BASE,
-                 custom_domain=None, request_session=None, connection_string=None):
+                 custom_domain=None, request_session=None, connection_string=None,
+                 emulator_endpoints={}):
         '''
         :param str account_name:
             The storage account name. This is used to authenticate requests 
@@ -128,11 +129,14 @@ class BlockBlobService(BaseBlobService):
             request session. See
             http://azure.microsoft.com/en-us/documentation/articles/storage-configure-connection-string/
             for the connection string format.
+        :param dict emulator_endpoints:
+            A dict defining which are going to be endpoints for the emulator. Only
+            applicable if is_emulated is True.
         '''
         self.blob_type = _BlobTypes.BlockBlob
         super(BlockBlobService, self).__init__(
             account_name, account_key, sas_token, is_emulated, protocol, endpoint_suffix, 
-            custom_domain, request_session, connection_string)
+            custom_domain, request_session, connection_string, emulator_endpoints)
 
     def put_block(self, container_name, blob_name, block, block_id,
                   validate_content=False, lease_id=None, timeout=None):

@@ -49,7 +49,7 @@ _CONNECTION_ENDPONTS = {
 class _ServiceParameters(object):
     def __init__(self, service, account_name=None, account_key=None, sas_token=None, 
                  is_emulated=False, protocol=DEFAULT_PROTOCOL, endpoint_suffix=SERVICE_HOST_BASE, 
-                 custom_domain=None):
+                 custom_domain=None, emulator_endpoints=None):
 
         self.account_name = account_name
         self.account_key = account_key
@@ -57,14 +57,15 @@ class _ServiceParameters(object):
         self.protocol = protocol or DEFAULT_PROTOCOL
 
         if is_emulated:
+            emulator_endpoints = emulator_endpoints or _EMULATOR_ENDPOINTS
             self.account_name = DEV_ACCOUNT_NAME
             self.protocol = 'http'
 
             # Only set the account key if a sas_token is not present to allow sas to be used with the emulator
             self.account_key = DEV_ACCOUNT_KEY if not self.sas_token else None
 
-            self.primary_endpoint = '{}/{}'.format(_EMULATOR_ENDPOINTS[service], self.account_name)
-            self.secondary_endpoint = '{}/{}-secondary'.format(_EMULATOR_ENDPOINTS[service], self.account_name)
+            self.primary_endpoint = '{}/{}'.format(emulator_endpoints[service], self.account_name)
+            self.secondary_endpoint = '{}/{}-secondary'.format(emulator_endpoints[service], self.account_name)
         else:
             # Strip whitespace from the key
             if self.account_key:
@@ -95,11 +96,11 @@ class _ServiceParameters(object):
     @staticmethod
     def get_service_parameters(service, account_name=None, account_key=None, sas_token=None, is_emulated=None, 
                  protocol=None, endpoint_suffix=None, custom_domain=None, request_session=None, 
-                 connection_string=None):
+                 connection_string=None, emulator_endpoints={}):
         if connection_string:
             params = _ServiceParameters._from_connection_string(connection_string, service)
         elif is_emulated:
-            params = _ServiceParameters(service, is_emulated=True)
+            params = _ServiceParameters(service, is_emulated=True, emulator_endpoints=emulator_endpoints)
         elif account_name:
             params = _ServiceParameters(service,
                                       account_name=account_name, 
@@ -108,7 +109,8 @@ class _ServiceParameters(object):
                                       is_emulated=is_emulated, 
                                       protocol=protocol, 
                                       endpoint_suffix=endpoint_suffix,
-                                      custom_domain=custom_domain)
+                                      custom_domain=custom_domain,
+                                      emulator_endpoints=emulator_endpoints)
         else:
             raise ValueError(_ERROR_STORAGE_MISSING_INFO)
 
