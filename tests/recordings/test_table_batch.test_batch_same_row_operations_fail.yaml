@@ -14,7 +14,7 @@ interactions:
       DataServiceVersion: [3.0;NetFx]
       MaxDataServiceVersion: ['3.0']
       Prefer: [return-no-content]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [3634feba-5f29-11e6-affe-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:35:28 GMT']
       x-ms-version: ['2015-07-08']

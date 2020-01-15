@@ -4,7 +4,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [4a966702-5f26-11e6-a110-0050b66b38e2]
       x-ms-content-length: ['32768']
       x-ms-date: ['Wed, 10 Aug 2016 18:14:34 GMT']
@@ -603,7 +603,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['32768']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [4aa979b6-5f26-11e6-a102-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:14:34 GMT']
       x-ms-range: [bytes=0-32767]
@@ -627,7 +627,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [4ab0a0d0-5f26-11e6-9cf4-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:14:34 GMT']
       x-ms-range: [bytes=0-32767]

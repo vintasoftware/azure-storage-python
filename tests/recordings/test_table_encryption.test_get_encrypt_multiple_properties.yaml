@@ -12,7 +12,7 @@ interactions:
       {\"KeyId\": \"key1\", \"EncryptedKey\": \"ujktkqMjLQ7SIOI3yyBvXAxwtQcoPlnHj+WQYIdf1PNeML3kQ3f96A==\",
       \"Algorithm\": \"A256KW\"}, \"EncryptionAgent\": {\"Protocol\": \"1.0\", \"EncryptionAlgorithm\":
       \"AES_CBC_256\"}, \"ContentEncryptionIV\": \"UpS2DtV25FsdjTqIa+mQvw==\", \"KeyWrappingMetadata\":
-      {\"EncryptionLibrary\": \"Python 0.33.0\"}}", "other": 20}'
+      {\"EncryptionLibrary\": \"Python 0.33.1\"}}", "other": 20}'
     headers:
       Accept: [application/json;odata=minimalmetadata]
       Connection: [keep-alive]
@@ -21,7 +21,7 @@ interactions:
       DataServiceVersion: [3.0;NetFx]
       MaxDataServiceVersion: ['3.0']
       Prefer: [return-no-content]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [96535568-5f28-11e6-92a5-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:31:00 GMT']
       x-ms-version: ['2015-07-08']
@@ -49,7 +49,7 @@ interactions:
       Connection: [keep-alive]
       DataServiceVersion: [3.0;NetFx]
       MaxDataServiceVersion: ['3.0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [9665e2de-5f28-11e6-92a1-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:31:00 GMT']
       x-ms-version: ['2015-07-08']
@@ -60,7 +60,7 @@ interactions:
         {\"KeyId\": \"key1\", \"EncryptedKey\": \"ujktkqMjLQ7SIOI3yyBvXAxwtQcoPlnHj+WQYIdf1PNeML3kQ3f96A==\",
         \"Algorithm\": \"A256KW\"}, \"EncryptionAgent\": {\"Protocol\": \"1.0\", \"EncryptionAlgorithm\":
         \"AES_CBC_256\"}, \"ContentEncryptionIV\": \"UpS2DtV25FsdjTqIa+mQvw==\", \"KeyWrappingMetadata\":
-        {\"EncryptionLibrary\": \"Python 0.33.0\"}}","other":20}'}
+        {\"EncryptionLibrary\": \"Python 0.33.1\"}}","other":20}'}
     headers:
       Cache-Control: [no-cache]
       Content-Type: [application/json;odata=minimalmetadata;streaming=true;charset=utf-8]

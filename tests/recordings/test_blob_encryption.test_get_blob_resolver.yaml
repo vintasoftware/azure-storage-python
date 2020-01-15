@@ -5,7 +5,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['16']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-blob-type: [BlockBlob]
       x-ms-client-request-id: [d1d96140-5f25-11e6-b1a1-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:11:12 GMT']
@@ -13,7 +13,7 @@ interactions:
           "qvBDFDsUMjp+NGFoHzHGwaqJ/y5hWyRp/fyubknimior+BcvR+mf4Q==", "Algorithm":
           "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
           "AES_CBC_256"}, "ContentEncryptionIV": "2nncYlUBgFz2GAELn2rzew==", "KeyWrappingMetadata":
-          {"EncryptionLibrary": "Python 0.33.0"}, "EncryptionMode": "FullBlob"}']
+          {"EncryptionLibrary": "Python 0.33.1"}, "EncryptionMode": "FullBlob"}']
       x-ms-version: ['2015-07-08']
     method: PUT
     uri: https://storagename.blob.core.windows.net/utcontainer867a11c5/encryption_block_blob867a11c5
@@ -33,7 +33,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [d1ec747e-5f25-11e6-a387-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:11:12 GMT']
       x-ms-range: [bytes=0-33554431]
@@ -60,7 +60,7 @@ interactions:
           "qvBDFDsUMjp+NGFoHzHGwaqJ/y5hWyRp/fyubknimior+BcvR+mf4Q==", "Algorithm":
           "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
           "AES_CBC_256"}, "ContentEncryptionIV": "2nncYlUBgFz2GAELn2rzew==", "KeyWrappingMetadata":
-          {"EncryptionLibrary": "Python 0.33.0"}, "EncryptionMode": "FullBlob"}']
+          {"EncryptionLibrary": "Python 0.33.1"}, "EncryptionMode": "FullBlob"}']
       x-ms-request-id: [dfd0babe-0001-005c-3832-f30ef3000000]
       x-ms-version: ['2015-07-08']
       x-ms-write-protection: ['false']

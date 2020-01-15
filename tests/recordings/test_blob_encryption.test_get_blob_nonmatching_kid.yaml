@@ -5,7 +5,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['16']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-blob-type: [BlockBlob]
       x-ms-client-request-id: [cd0e589e-5f25-11e6-a7a3-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:11:04 GMT']
@@ -13,7 +13,7 @@ interactions:
           "SgoWolXFiqjgtKk18pXeMB/A8T/MnB32GxL+3Rn5iWgvS8JKLLG0yg==", "Algorithm":
           "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
           "AES_CBC_256"}, "ContentEncryptionIV": "huSN+wW+O+5wQy5hslsucA==", "KeyWrappingMetadata":
-          {"EncryptionLibrary": "Python 0.33.0"}, "EncryptionMode": "FullBlob"}']
+          {"EncryptionLibrary": "Python 0.33.1"}, "EncryptionMode": "FullBlob"}']
       x-ms-version: ['2015-07-08']
     method: PUT
     uri: https://storagename.blob.core.windows.net/utcontainerd5d1480/encryption_block_blobd5d1480
@@ -33,7 +33,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [cd216bf4-5f25-11e6-b432-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:11:04 GMT']
       x-ms-range: [bytes=0-33554431]
@@ -60,7 +60,7 @@ interactions:
           "SgoWolXFiqjgtKk18pXeMB/A8T/MnB32GxL+3Rn5iWgvS8JKLLG0yg==", "Algorithm":
           "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
           "AES_CBC_256"}, "ContentEncryptionIV": "huSN+wW+O+5wQy5hslsucA==", "KeyWrappingMetadata":
-          {"EncryptionLibrary": "Python 0.33.0"}, "EncryptionMode": "FullBlob"}']
+          {"EncryptionLibrary": "Python 0.33.1"}, "EncryptionMode": "FullBlob"}']
       x-ms-request-id: [32e1d53d-0001-0062-0332-f3b8d2000000]
       x-ms-version: ['2015-07-08']
       x-ms-write-protection: ['false']

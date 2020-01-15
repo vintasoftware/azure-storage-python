@@ -4,7 +4,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [619d23ac-5f26-11e6-b0da-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:15:13 GMT']
       x-ms-version: ['2015-07-08']
@@ -26,11 +26,11 @@ interactions:
       "key1", "EncryptedKey": "vbgfMhKEjBkL31ChUQ6ZZ0wrfXp5OnMweakQffU9Is9erHIEGXCJLg==",
       "Algorithm": "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
       "AES_CBC_256"}, "ContentEncryptionIV": "56AhlK98hFIlKXewtf236A==", "KeyWrappingMetadata":
-      {"EncryptionLibrary": "Python 0.33.0"}}, "EncryptedMessageContents": "UWhw6qFymmOZbIyX8QfHdA=="}</MessageText></QueueMessage>'
+      {"EncryptionLibrary": "Python 0.33.1"}}, "EncryptedMessageContents": "UWhw6qFymmOZbIyX8QfHdA=="}</MessageText></QueueMessage>'
     headers:
       Connection: [keep-alive]
       Content-Length: ['502']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [61f096e2-5f26-11e6-8b82-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:15:13 GMT']
       x-ms-version: ['2015-07-08']
@@ -49,7 +49,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [61f55c70-5f26-11e6-b795-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:15:13 GMT']
       x-ms-version: ['2015-07-08']
@@ -63,7 +63,7 @@ interactions:
         : \"vbgfMhKEjBkL31ChUQ6ZZ0wrfXp5OnMweakQffU9Is9erHIEGXCJLg==\", \"Algorithm\"\
         : \"A256KW\"}, \"EncryptionAgent\": {\"Protocol\": \"1.0\", \"EncryptionAlgorithm\"\
         : \"AES_CBC_256\"}, \"ContentEncryptionIV\": \"56AhlK98hFIlKXewtf236A==\"\
-        , \"KeyWrappingMetadata\": {\"EncryptionLibrary\": \"Python 0.33.0\"}}, \"\
+        , \"KeyWrappingMetadata\": {\"EncryptionLibrary\": \"Python 0.33.1\"}}, \"\
         EncryptedMessageContents\": \"UWhw6qFymmOZbIyX8QfHdA==\"}</MessageText></QueueMessage></QueueMessagesList>"}
     headers:
       Cache-Control: [no-cache]
@@ -78,7 +78,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [61fa211a-5f26-11e6-bd5e-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:15:13 GMT']
       x-ms-version: ['2015-07-08']
@@ -92,7 +92,7 @@ interactions:
         : \"vbgfMhKEjBkL31ChUQ6ZZ0wrfXp5OnMweakQffU9Is9erHIEGXCJLg==\", \"Algorithm\"\
         : \"A256KW\"}, \"EncryptionAgent\": {\"Protocol\": \"1.0\", \"EncryptionAlgorithm\"\
         : \"AES_CBC_256\"}, \"ContentEncryptionIV\": \"56AhlK98hFIlKXewtf236A==\"\
-        , \"KeyWrappingMetadata\": {\"EncryptionLibrary\": \"Python 0.33.0\"}}, \"\
+        , \"KeyWrappingMetadata\": {\"EncryptionLibrary\": \"Python 0.33.1\"}}, \"\
         EncryptedMessageContents\": \"UWhw6qFymmOZbIyX8QfHdA==\"}</MessageText></QueueMessage></QueueMessagesList>"}
     headers:
       Cache-Control: [no-cache]

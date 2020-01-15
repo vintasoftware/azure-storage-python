@@ -4,7 +4,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [ca565810-5f27-11e6-90be-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:25:18 GMT']
       x-ms-version: ['2015-07-08']
@@ -18,7 +18,7 @@ interactions:
       Last-Modified: ['Wed, 10 Aug 2016 18:25:16 GMT']
       Server: [Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0]
       Transfer-Encoding: [chunked]
-      x-ms-request-id: [90073350-0001-0024-2734-f36644000000]
+      x-ms-request-id: [900.33.1-0001-0024-2734-f36644000000]
       x-ms-version: ['2015-07-08']
     status: {code: 201, message: Created}
 - request:
@@ -26,7 +26,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['11']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-blob-type: [BlockBlob]
       x-ms-client-request-id: [ca9b7c5c-5f27-11e6-b081-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:25:18 GMT']
@@ -51,7 +51,7 @@ interactions:
       Connection: [keep-alive]
       Content-Length: ['0']
       If-Modified-Since: ['Wed, 10 Aug 2016 18:40:18 GMT']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-blob-content-disposition: [inline]
       x-ms-blob-content-language: [spanish]
       x-ms-client-request-id: [caa04108-5f27-11e6-b82d-0050b66b38e2]

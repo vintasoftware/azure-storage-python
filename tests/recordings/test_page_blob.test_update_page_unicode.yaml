@@ -4,7 +4,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-blob-content-length: ['512']
       x-ms-blob-type: [PageBlob]
       x-ms-client-request-id: [5e50416e-5f28-11e6-9c8d-0050b66b38e2]

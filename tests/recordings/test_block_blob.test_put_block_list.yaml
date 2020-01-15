@@ -4,7 +4,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['3']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [e56e0c1a-5f27-11e6-bcbe-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:26:03 GMT']
       x-ms-version: ['2015-07-08']
@@ -25,7 +25,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['3']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [e598f5ae-5f27-11e6-86b5-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:26:04 GMT']
       x-ms-version: ['2015-07-08']
@@ -46,7 +46,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['3']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [e5a01cb4-5f27-11e6-a289-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:26:04 GMT']
       x-ms-version: ['2015-07-08']
@@ -69,7 +69,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['125']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [e5a743ac-5f27-11e6-b4d7-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:26:04 GMT']
       x-ms-version: ['2015-07-08']
@@ -91,7 +91,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [e5ac08e2-5f27-11e6-ba3e-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:26:04 GMT']
       x-ms-range: [bytes=0-33554431]

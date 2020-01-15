@@ -7,7 +7,7 @@ interactions:
       "{\"WrappedContentKey\": {\"KeyId\": \"key1\", \"EncryptedKey\": \"FEqdV85jtVbr2e8ruMbsLEEBEExg5gZyb7yYWqlld97GPpPsYH5LlA==\",
       \"Algorithm\": \"A256KW\"}, \"EncryptionAgent\": {\"Protocol\": \"1.0\", \"EncryptionAlgorithm\":
       \"AES_CBC_256\"}, \"ContentEncryptionIV\": \"RIE0J/S11G91P00fx2ju7A==\", \"KeyWrappingMetadata\":
-      {\"EncryptionLibrary\": \"Python 0.33.0\"}}", "clsid": "c9da6455-213d-42c9-9a79-3e9149a57833",
+      {\"EncryptionLibrary\": \"Python 0.33.1\"}}", "clsid": "c9da6455-213d-42c9-9a79-3e9149a57833",
       "birthday@odata.type": "Edm.DateTime", "clsid@odata.type": "Edm.Guid", "PartitionKey":
       "pkabdc128f", "sex@odata.type": "Edm.Binary", "Birthday@odata.type": "Edm.DateTime",
       "large": "933311100", "large@odata.type": "Edm.Int64", "ratio": 3.1, "_ClientEncryptionMetadata2@odata.type":
@@ -21,7 +21,7 @@ interactions:
       DataServiceVersion: [3.0;NetFx]
       MaxDataServiceVersion: ['3.0']
       Prefer: [return-no-content]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [903af192-5f28-11e6-a4e7-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:30:50 GMT']
       x-ms-version: ['2015-07-08']
@@ -49,7 +49,7 @@ interactions:
       Connection: [keep-alive]
       DataServiceVersion: [3.0;NetFx]
       MaxDataServiceVersion: ['3.0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [904eb7ae-5f28-11e6-823b-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:30:50 GMT']
       x-ms-version: ['2015-07-08']
@@ -60,7 +60,7 @@ interactions:
         {\"KeyId\": \"key1\", \"EncryptedKey\": \"FEqdV85jtVbr2e8ruMbsLEEBEExg5gZyb7yYWqlld97GPpPsYH5LlA==\",
         \"Algorithm\": \"A256KW\"}, \"EncryptionAgent\": {\"Protocol\": \"1.0\", \"EncryptionAlgorithm\":
         \"AES_CBC_256\"}, \"ContentEncryptionIV\": \"RIE0J/S11G91P00fx2ju7A==\", \"KeyWrappingMetadata\":
-        {\"EncryptionLibrary\": \"Python 0.33.0\"}}","clsid@odata.type":"Edm.Guid","clsid":"c9da6455-213d-42c9-9a79-3e9149a57833","large@odata.type":"Edm.Int64","large":"933311100","ratio":3.1,"evenratio":3.0,"name":"John
+        {\"EncryptionLibrary\": \"Python 0.33.1\"}}","clsid@odata.type":"Edm.Guid","clsid":"c9da6455-213d-42c9-9a79-3e9149a57833","large@odata.type":"Edm.Int64","large":"933311100","ratio":3.1,"evenratio":3.0,"name":"John
         Doe"}'}
     headers:
       Cache-Control: [no-cache]

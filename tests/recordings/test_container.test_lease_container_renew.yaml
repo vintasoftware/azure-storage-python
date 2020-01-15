@@ -4,7 +4,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [bc968686-5f26-11e6-a44e-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:17:45 GMT']
       x-ms-version: ['2015-07-08']
@@ -26,7 +26,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [bcd94870-5f26-11e6-9602-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:17:46 GMT']
       x-ms-lease-action: [acquire]
@@ -51,7 +51,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [c2d3f7e8-5f26-11e6-a715-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:17:56 GMT']
       x-ms-lease-action: [renew]
@@ -76,7 +76,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [c5dd3992-5f26-11e6-b232-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:18:01 GMT']
       x-ms-version: ['2015-07-08']
@@ -100,7 +100,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [cbda477a-5f26-11e6-9605-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:18:11 GMT']
       x-ms-version: ['2015-07-08']

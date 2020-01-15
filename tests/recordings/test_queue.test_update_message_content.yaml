@@ -4,7 +4,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [7ec950f0-5f28-11e6-9558-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:30:21 GMT']
       x-ms-version: ['2015-07-08']
@@ -26,7 +26,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['103']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [7f1a17be-5f28-11e6-8aeb-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:30:21 GMT']
       x-ms-version: ['2015-07-08']
@@ -45,7 +45,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [7f21931e-5f28-11e6-b478-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:30:21 GMT']
       x-ms-version: ['2015-07-08']
@@ -72,7 +72,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['103']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [7f28107e-5f28-11e6-beda-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:30:21 GMT']
       x-ms-version: ['2015-07-08']
@@ -93,7 +93,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [7f2d1a74-5f28-11e6-bd93-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:30:21 GMT']
       x-ms-version: ['2015-07-08']

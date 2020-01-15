@@ -5,7 +5,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['16']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-blob-type: [BlockBlob]
       x-ms-client-request-id: [c6103514-5f25-11e6-aae3-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:10:52 GMT']
@@ -13,7 +13,7 @@ interactions:
           "ZXx4AmX924A6bMreUuCwfZDYbU1ruVKi+nlB6VnSFLqzhLcIwubY0g==", "Algorithm":
           "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
           "AES_CBC_256"}, "ContentEncryptionIV": "hOzlOfy12Jw7fKM+VKrbUA==", "KeyWrappingMetadata":
-          {"EncryptionLibrary": "Python 0.33.0"}, "EncryptionMode": "FullBlob"}']
+          {"EncryptionLibrary": "Python 0.33.1"}, "EncryptionMode": "FullBlob"}']
       x-ms-version: ['2015-07-08']
     method: PUT
     uri: https://storagename.blob.core.windows.net/utcontainer74a6114f/encryption_block_blob74a6114f
@@ -33,7 +33,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [c6234788-5f25-11e6-bd74-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:10:52 GMT']
       x-ms-range: [bytes=0-33554431]
@@ -60,7 +60,7 @@ interactions:
           "ZXx4AmX924A6bMreUuCwfZDYbU1ruVKi+nlB6VnSFLqzhLcIwubY0g==", "Algorithm":
           "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
           "AES_CBC_256"}, "ContentEncryptionIV": "hOzlOfy12Jw7fKM+VKrbUA==", "KeyWrappingMetadata":
-          {"EncryptionLibrary": "Python 0.33.0"}, "EncryptionMode": "FullBlob"}']
+          {"EncryptionLibrary": "Python 0.33.1"}, "EncryptionMode": "FullBlob"}']
       x-ms-request-id: [dfe16879-0001-0051-1f32-f3e1ff000000]
       x-ms-version: ['2015-07-08']
       x-ms-write-protection: ['false']
@@ -69,7 +69,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [c62a70c8-5f25-11e6-a110-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:10:52 GMT']
       x-ms-range: [bytes=0-33554431]
@@ -96,7 +96,7 @@ interactions:
           "ZXx4AmX924A6bMreUuCwfZDYbU1ruVKi+nlB6VnSFLqzhLcIwubY0g==", "Algorithm":
           "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
           "AES_CBC_256"}, "ContentEncryptionIV": "hOzlOfy12Jw7fKM+VKrbUA==", "KeyWrappingMetadata":
-          {"EncryptionLibrary": "Python 0.33.0"}, "EncryptionMode": "FullBlob"}']
+          {"EncryptionLibrary": "Python 0.33.1"}, "EncryptionMode": "FullBlob"}']
       x-ms-request-id: [dfe1688a-0001-0051-2f32-f3e1ff000000]
       x-ms-version: ['2015-07-08']
       x-ms-write-protection: ['false']
@@ -105,7 +105,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [c63197cc-5f25-11e6-9552-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:10:52 GMT']
       x-ms-range: [bytes=0-33554431]
@@ -132,7 +132,7 @@ interactions:
           "ZXx4AmX924A6bMreUuCwfZDYbU1ruVKi+nlB6VnSFLqzhLcIwubY0g==", "Algorithm":
           "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
           "AES_CBC_256"}, "ContentEncryptionIV": "hOzlOfy12Jw7fKM+VKrbUA==", "KeyWrappingMetadata":
-          {"EncryptionLibrary": "Python 0.33.0"}, "EncryptionMode": "FullBlob"}']
+          {"EncryptionLibrary": "Python 0.33.1"}, "EncryptionMode": "FullBlob"}']
       x-ms-request-id: [dfe16898-0001-0051-3d32-f3e1ff000000]
       x-ms-version: ['2015-07-08']
       x-ms-write-protection: ['false']
@@ -141,7 +141,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [c6365c76-5f25-11e6-a2e7-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:10:52 GMT']
       x-ms-range: [bytes=0-33554431]
@@ -168,7 +168,7 @@ interactions:
           "ZXx4AmX924A6bMreUuCwfZDYbU1ruVKi+nlB6VnSFLqzhLcIwubY0g==", "Algorithm":
           "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
           "AES_CBC_256"}, "ContentEncryptionIV": "hOzlOfy12Jw7fKM+VKrbUA==", "KeyWrappingMetadata":
-          {"EncryptionLibrary": "Python 0.33.0"}, "EncryptionMode": "FullBlob"}']
+          {"EncryptionLibrary": "Python 0.33.1"}, "EncryptionMode": "FullBlob"}']
       x-ms-request-id: [dfe168a3-0001-0051-4732-f3e1ff000000]
       x-ms-version: ['2015-07-08']
       x-ms-write-protection: ['false']

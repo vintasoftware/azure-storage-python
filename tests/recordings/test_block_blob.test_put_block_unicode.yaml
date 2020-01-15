@@ -6,7 +6,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['52']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [ed7c65a8-5f27-11e6-b86c-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:26:17 GMT']
       x-ms-version: ['2015-07-08']

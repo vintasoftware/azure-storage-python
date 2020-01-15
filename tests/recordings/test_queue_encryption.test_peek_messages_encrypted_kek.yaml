@@ -4,7 +4,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [60f8373e-5f26-11e6-aafe-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:15:12 GMT']
       x-ms-version: ['2015-07-08']
@@ -26,11 +26,11 @@ interactions:
       "key1", "EncryptedKey": "ATzdyiPpo9oXiOrb1ATHtMVklsKuno7hKS4n6RrRMbD2jdZcOsdd4Q==",
       "Algorithm": "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
       "AES_CBC_256"}, "ContentEncryptionIV": "T3KTK6vBPfxGLJHSBt2pfQ==", "KeyWrappingMetadata":
-      {"EncryptionLibrary": "Python 0.33.0"}}, "EncryptedMessageContents": "y1Rab1UY8WQWl/DN/fMjbxzq32Oz6svGfKxJZa2QllM="}</MessageText></QueueMessage>'
+      {"EncryptionLibrary": "Python 0.33.1"}}, "EncryptedMessageContents": "y1Rab1UY8WQWl/DN/fMjbxzq32Oz6svGfKxJZa2QllM="}</MessageText></QueueMessage>'
     headers:
       Connection: [keep-alive]
       Content-Length: ['522']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [6149b0fa-5f26-11e6-9395-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:15:12 GMT']
       x-ms-version: ['2015-07-08']
@@ -49,7 +49,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [614e75ae-5f26-11e6-8386-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:15:12 GMT']
       x-ms-version: ['2015-07-08']
@@ -63,7 +63,7 @@ interactions:
         : \"ATzdyiPpo9oXiOrb1ATHtMVklsKuno7hKS4n6RrRMbD2jdZcOsdd4Q==\", \"Algorithm\"\
         : \"A256KW\"}, \"EncryptionAgent\": {\"Protocol\": \"1.0\", \"EncryptionAlgorithm\"\
         : \"AES_CBC_256\"}, \"ContentEncryptionIV\": \"T3KTK6vBPfxGLJHSBt2pfQ==\"\
-        , \"KeyWrappingMetadata\": {\"EncryptionLibrary\": \"Python 0.33.0\"}}, \"\
+        , \"KeyWrappingMetadata\": {\"EncryptionLibrary\": \"Python 0.33.1\"}}, \"\
         EncryptedMessageContents\": \"y1Rab1UY8WQWl/DN/fMjbxzq32Oz6svGfKxJZa2QllM=\"\
         }</MessageText></QueueMessage></QueueMessagesList>"}
     headers:

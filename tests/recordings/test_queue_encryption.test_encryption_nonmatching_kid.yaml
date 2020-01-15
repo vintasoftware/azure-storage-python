@@ -4,7 +4,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [6689cf1e-5f26-11e6-9686-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:15:21 GMT']
       x-ms-version: ['2015-07-08']
@@ -26,11 +26,11 @@ interactions:
       "key1", "EncryptedKey": "nGuST6Bd1f8GpKXbER5LaFkBmnkOvodTX9Zu5rHZ+S48HFdu0vbu6Q==",
       "Algorithm": "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
       "AES_CBC_256"}, "ContentEncryptionIV": "4jrFtuhvcouSMQnRSb1DNQ==", "KeyWrappingMetadata":
-      {"EncryptionLibrary": "Python 0.33.0"}}, "EncryptedMessageContents": "DbJ/tMbUyxBGvQDHM6I1JA=="}</MessageText></QueueMessage>'
+      {"EncryptionLibrary": "Python 0.33.1"}}, "EncryptedMessageContents": "DbJ/tMbUyxBGvQDHM6I1JA=="}</MessageText></QueueMessage>'
     headers:
       Connection: [keep-alive]
       Content-Length: ['502']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [66dfa5b8-5f26-11e6-a2ee-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:15:22 GMT']
       x-ms-version: ['2015-07-08']
@@ -49,7 +49,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [66f2ba54-5f26-11e6-a740-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:15:22 GMT']
       x-ms-version: ['2015-07-08']
@@ -63,7 +63,7 @@ interactions:
         : {\"WrappedContentKey\": {\"KeyId\": \"key1\", \"EncryptedKey\": \"nGuST6Bd1f8GpKXbER5LaFkBmnkOvodTX9Zu5rHZ+S48HFdu0vbu6Q==\"\
         , \"Algorithm\": \"A256KW\"}, \"EncryptionAgent\": {\"Protocol\": \"1.0\"\
         , \"EncryptionAlgorithm\": \"AES_CBC_256\"}, \"ContentEncryptionIV\": \"4jrFtuhvcouSMQnRSb1DNQ==\"\
-        , \"KeyWrappingMetadata\": {\"EncryptionLibrary\": \"Python 0.33.0\"}}, \"\
+        , \"KeyWrappingMetadata\": {\"EncryptionLibrary\": \"Python 0.33.1\"}}, \"\
         EncryptedMessageContents\": \"DbJ/tMbUyxBGvQDHM6I1JA==\"}</MessageText></QueueMessage></QueueMessagesList>"}
     headers:
       Cache-Control: [no-cache]

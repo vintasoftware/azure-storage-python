@@ -7,7 +7,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['144']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-blob-type: [BlockBlob]
       x-ms-client-request-id: [d7e3a0fa-5f25-11e6-8b46-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:11:22 GMT']
@@ -15,7 +15,7 @@ interactions:
           "3bohrtJZyt2Jrn1x/uV7UyDHZfBwmTlVW94Q7MGpt74an+VjP76fnA==", "Algorithm":
           "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
           "AES_CBC_256"}, "ContentEncryptionIV": "a+9IM5igWZqYCiG4HRt6EQ==", "KeyWrappingMetadata":
-          {"EncryptionLibrary": "Python 0.33.0"}, "EncryptionMode": "FullBlob"}']
+          {"EncryptionLibrary": "Python 0.33.1"}, "EncryptionMode": "FullBlob"}']
       x-ms-version: ['2015-07-08']
     method: PUT
     uri: https://storagename.blob.core.windows.net/utcontainer4ff319bc/encryption_block_blob4ff319bc
@@ -35,7 +35,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [d7fb79c8-5f25-11e6-b5fc-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:11:22 GMT']
       x-ms-range: [bytes=32-63]
@@ -62,7 +62,7 @@ interactions:
           "3bohrtJZyt2Jrn1x/uV7UyDHZfBwmTlVW94Q7MGpt74an+VjP76fnA==", "Algorithm":
           "A256KW"}, "EncryptionAgent": {"Protocol": "1.0", "EncryptionAlgorithm":
           "AES_CBC_256"}, "ContentEncryptionIV": "a+9IM5igWZqYCiG4HRt6EQ==", "KeyWrappingMetadata":
-          {"EncryptionLibrary": "Python 0.33.0"}, "EncryptionMode": "FullBlob"}']
+          {"EncryptionLibrary": "Python 0.33.1"}, "EncryptionMode": "FullBlob"}']
       x-ms-request-id: [5256c454-0001-0034-2732-f350a2000000]
       x-ms-version: ['2015-07-08']
       x-ms-write-protection: ['false']

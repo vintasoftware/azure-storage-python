@@ -22,7 +22,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['1024']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-blob-type: [BlockBlob]
       x-ms-client-request-id: [627eec14-5f27-11e6-bab0-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:22:24 GMT']
@@ -46,7 +46,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [629926d8-5f27-11e6-909b-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:22:24 GMT']
       x-ms-lease-action: [acquire]
@@ -71,7 +71,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [62a04e36-5f27-11e6-a31c-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:22:24 GMT']
       x-ms-lease-action: [renew]

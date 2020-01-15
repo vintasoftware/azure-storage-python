@@ -10,7 +10,7 @@ interactions:
       \"EncryptedKey\": \"CYPBtkE1UF+s4dkfr1tL8biQjAk+1+3ScvhfBoEDxDd9T0go+Yv/mA==\",
       \"Algorithm\": \"A256KW\"}, \"EncryptionAgent\": {\"Protocol\": \"1.0\", \"EncryptionAlgorithm\":
       \"AES_CBC_256\"}, \"ContentEncryptionIV\": \"6uiu0hPo7iImZdtym/QWpA==\", \"KeyWrappingMetadata\":
-      {\"EncryptionLibrary\": \"Python 0.33.0\"}}", "sex": "r/l8zbLkVh11A13+ysWY1Q==",
+      {\"EncryptionLibrary\": \"Python 0.33.1\"}}", "sex": "r/l8zbLkVh11A13+ysWY1Q==",
       "evenratio": 3.0, "optional": null, "_ClientEncryptionMetadata2@odata.type":
       "Edm.Binary", "age": "39", "clsid@odata.type": "Edm.Guid", "birthday@odata.type":
       "Edm.DateTime", "married": true, "ratio": 3.1, "sex@odata.type": "Edm.Binary",
@@ -23,7 +23,7 @@ interactions:
       DataServiceVersion: [3.0;NetFx]
       MaxDataServiceVersion: ['3.0']
       Prefer: [return-no-content]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [99ef0228-5f28-11e6-8b90-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:31:06 GMT']
       x-ms-version: ['2015-07-08']
@@ -51,7 +51,7 @@ interactions:
       Connection: [keep-alive]
       DataServiceVersion: [3.0;NetFx]
       MaxDataServiceVersion: ['3.0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [9a01a338-5f28-11e6-9396-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:31:06 GMT']
       x-ms-version: ['2015-07-08']
@@ -62,7 +62,7 @@ interactions:
         {\"KeyId\": \"key1\", \"EncryptedKey\": \"CYPBtkE1UF+s4dkfr1tL8biQjAk+1+3ScvhfBoEDxDd9T0go+Yv/mA==\",
         \"Algorithm\": \"A256KW\"}, \"EncryptionAgent\": {\"Protocol\": \"1.0\", \"EncryptionAlgorithm\":
         \"AES_CBC_256\"}, \"ContentEncryptionIV\": \"6uiu0hPo7iImZdtym/QWpA==\", \"KeyWrappingMetadata\":
-        {\"EncryptionLibrary\": \"Python 0.33.0\"}}","sex@odata.type":"Edm.Binary","sex":"r/l8zbLkVh11A13+ysWY1Q==","evenratio":3.0,"age@odata.type":"Edm.Int64","age":"39","married":true,"ratio":3.1,"large@odata.type":"Edm.Int64","large":"933311100"}'}
+        {\"EncryptionLibrary\": \"Python 0.33.1\"}}","sex@odata.type":"Edm.Binary","sex":"r/l8zbLkVh11A13+ysWY1Q==","evenratio":3.0,"age@odata.type":"Edm.Int64","age":"39","married":true,"ratio":3.1,"large@odata.type":"Edm.Int64","large":"933311100"}'}
     headers:
       Cache-Control: [no-cache]
       Content-Type: [application/json;odata=minimalmetadata;streaming=true;charset=utf-8]

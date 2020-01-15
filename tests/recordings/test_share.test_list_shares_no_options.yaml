@@ -4,7 +4,7 @@ interactions:
     headers:
       Connection: [keep-alive]
       Content-Length: ['0']
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [73849f00-5f26-11e6-bc77-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:15:43 GMT']
       x-ms-version: ['2015-07-08']
@@ -25,7 +25,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [73c50090-5f26-11e6-bc03-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:15:43 GMT']
       x-ms-version: ['2015-07-08']
@@ -167,7 +167,7 @@ interactions:
         \ 17 Feb 2016 18:57:04 GMT</Last-Modified><Etag>\"0x8D337CC2090D440\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>s0dcd58ea69a64cbfae45537fbfea26db</Name><Properties><Last-Modified>Tue,\
         \ 05 Apr 2016 22:30:33 GMT</Last-Modified><Etag>\"0x8D35DA1E6FF3FD9\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>s0ddcb063e6924d71bb597ed364cc772a</Name><Properties><Last-Modified>Wed,\
         \ 17 Feb 2016 18:57:05 GMT</Last-Modified><Etag>\"0x8D337CC21108961\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>s0e1ea5d7c0b7448b84983123b7ddf710</Name><Properties><Last-Modified>Tue,\
-        \ 29 Sep 2015 19:49:13 GMT</Last-Modified><Etag>\"0x8D2C9070D4760AE\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>s0e33306464be488ab3a44bd543078df4</Name><Properties><Last-Modified>Tue,\
+        \ 29 Sep 2015 19:49:13 GMT</Last-Modified><Etag>\"0x8D2C9070D4760AE\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>s0.33.16464be488ab3a44bd543078df4</Name><Properties><Last-Modified>Tue,\
         \ 29 Sep 2015 19:55:11 GMT</Last-Modified><Etag>\"0x8D2C907E2533C33\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>s0e495932eb804ed28aa9c14fffbe7da3</Name><Properties><Last-Modified>Tue,\
         \ 29 Sep 2015 20:01:55 GMT</Last-Modified><Etag>\"0x8D2C908D336ED20\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>s0e5a10167abd42d7b6fcc211eec4b385</Name><Properties><Last-Modified>Tue,\
         \ 05 Apr 2016 22:28:00 GMT</Last-Modified><Etag>\"0x8D35DA18BEA5963\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>s0e97e1d1b5d54756b15fac9988e12600</Name><Properties><Last-Modified>Tue,\
@@ -2316,7 +2316,7 @@ interactions:
         \ 05 Apr 2016 21:58:40 GMT</Last-Modified><Etag>\"0x8D35D9D72F10D64\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>sffb821e2698f4b2eb52bac581bbd8754</Name><Properties><Last-Modified>Fri,\
         \ 19 Feb 2016 23:00:35 GMT</Last-Modified><Etag>\"0x8D339807A131625\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>share0062e102551f42f78d13cfb3b04b0827</Name><Properties><Last-Modified>Mon,\
         \ 08 Aug 2016 20:04:48 GMT</Last-Modified><Etag>\"0x8D3BFC73FE0E455\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>share04f703687de64b1db1bead64908f11c2</Name><Properties><Last-Modified>Mon,\
-        \ 05 Oct 2015 20:33:08 GMT</Last-Modified><Etag>\"0x8D2CDC42E123CF6\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>share05b3acd14fe24142ae8fbc03faa9d328</Name><Properties><Last-Modified>Wed,\
+        \ 05 Oct 2015 20.33.18 GMT</Last-Modified><Etag>\"0x8D2CDC42E123CF6\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>share05b3acd14fe24142ae8fbc03faa9d328</Name><Properties><Last-Modified>Wed,\
         \ 17 Feb 2016 19:07:06 GMT</Last-Modified><Etag>\"0x8D337CD8701703C\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>share09ef56293de94babaed4908287fa02bb</Name><Properties><Last-Modified>Fri,\
         \ 05 Feb 2016 23:18:32 GMT</Last-Modified><Etag>\"0x8D32E82A9EAC59F\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>share1</Name><Properties><Last-Modified>Fri,\
         \ 05 Feb 2016 23:04:28 GMT</Last-Modified><Etag>\"0x8D32E80B343D662\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>share138b0dd9ac3344c1a649452394bf65ec</Name><Properties><Last-Modified>Sat,\
@@ -5046,7 +5046,7 @@ interactions:
     body: null
     headers:
       Connection: [keep-alive]
-      User-Agent: [Azure-Storage/0.33.0 (Python CPython 3.4.4rc1; Windows 10)]
+      User-Agent: [Azure-Storage/0.33.1 (Python CPython 3.4.4rc1; Windows 10)]
       x-ms-client-request-id: [74faf1ae-5f26-11e6-8ec1-0050b66b38e2]
       x-ms-date: ['Wed, 10 Aug 2016 18:15:45 GMT']
       x-ms-version: ['2015-07-08']
@@ -5828,7 +5828,7 @@ interactions:
         \ 17 May 2016 21:56:00 GMT</Last-Modified><Etag>\"0x8D37E9E08FA200A\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7862</Name><Properties><Last-Modified>Tue,\
         \ 17 May 2016 21:56:01 GMT</Last-Modified><Etag>\"0x8D37E9E08FFC59F\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7863</Name><Properties><Last-Modified>Tue,\
         \ 17 May 2016 21:56:01 GMT</Last-Modified><Etag>\"0x8D37E9E0905B94E\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7864</Name><Properties><Last-Modified>Tue,\
-        \ 17 May 2016 21:56:01 GMT</Last-Modified><Etag>\"0x8D37E9E090D3390\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7865</Name><Properties><Last-Modified>Tue,\
+        \ 17 May 2016 21:56:01 GMT</Last-Modified><Etag>\"0x8D37E9E090.33.1\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7865</Name><Properties><Last-Modified>Tue,\
         \ 17 May 2016 21:56:01 GMT</Last-Modified><Etag>\"0x8D37E9E09134E48\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7866</Name><Properties><Last-Modified>Tue,\
         \ 17 May 2016 21:56:01 GMT</Last-Modified><Etag>\"0x8D37E9E0918F3C6\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7867</Name><Properties><Last-Modified>Tue,\
         \ 17 May 2016 21:56:01 GMT</Last-Modified><Etag>\"0x8D37E9E091E2420\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7868</Name><Properties><Last-Modified>Tue,\
@@ -5939,7 +5939,7 @@ interactions:
         \ 17 May 2016 21:56:04 GMT</Last-Modified><Etag>\"0x8D37E9E0B25518B\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7962</Name><Properties><Last-Modified>Tue,\
         \ 17 May 2016 21:56:04 GMT</Last-Modified><Etag>\"0x8D37E9E0B29E587\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7963</Name><Properties><Last-Modified>Tue,\
         \ 17 May 2016 21:56:04 GMT</Last-Modified><Etag>\"0x8D37E9E0B2EC7A3\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7964</Name><Properties><Last-Modified>Tue,\
-        \ 17 May 2016 21:56:04 GMT</Last-Modified><Etag>\"0x8D37E9E0B33D0D9\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7965</Name><Properties><Last-Modified>Tue,\
+        \ 17 May 2016 21:56:04 GMT</Last-Modified><Etag>\"0x8D37E9E0.33.1D9\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7965</Name><Properties><Last-Modified>Tue,\
         \ 17 May 2016 21:56:04 GMT</Last-Modified><Etag>\"0x8D37E9E0B38B2FE\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7966</Name><Properties><Last-Modified>Tue,\
         \ 17 May 2016 21:56:04 GMT</Last-Modified><Etag>\"0x8D37E9E0B3D952C\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7967</Name><Properties><Last-Modified>Tue,\
         \ 17 May 2016 21:56:04 GMT</Last-Modified><Etag>\"0x8D37E9E0B427779\"</Etag><Quota>5120</Quota></Properties></Share><Share><Name>testcfe5ab0c4488842148ed97406a7b8a2e7968</Name><Properties><Last-Modified>Tue,\
